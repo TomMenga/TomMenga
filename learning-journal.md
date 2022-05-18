@@ -13,5 +13,6 @@ Starting today (19th of April 2022), I will write down monthly everything I lear
   * Hints of CNN (Convolutional Neural Network)
   * Hints of Sentiment analysis
   * Hints of Topic Modeling
+  * Hints of Word Embedding
 * Conda & Conda environments
 * Hints of Python 
