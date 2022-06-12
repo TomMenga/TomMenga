@@ -17,3 +17,7 @@ Starting today (19th of April 2022), I will write down monthly everything I lear
 * Conda & Conda environments
 * Hints of Python 
 * Started using Notion
+
+## June 2022
+* Jupyter notebook
+* Hints of Keras and tensorflow
