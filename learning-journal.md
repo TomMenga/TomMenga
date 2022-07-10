@@ -22,3 +22,6 @@ Starting today (19th of April 2022), I will write down monthly everything I lear
 * Jupyter notebook
 * Hints of Keras and tensorflow
 * [Google Colab](https://colab.research.google.com/)
+
+## July 2022
+* Oracle SQL
