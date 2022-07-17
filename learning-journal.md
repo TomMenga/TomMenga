@@ -25,3 +25,4 @@ Starting today (19th of April 2022), I will write down monthly everything I lear
 
 ## July 2022
 * Oracle SQL
+* Git Large File Storage 
