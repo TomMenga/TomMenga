@@ -33,3 +33,6 @@ Starting today (19th of April 2022), I will write down monthly everything I lear
 ## September 2022
 * Marble testing (https://dev.to/this-is-learning/rxjs-marble-testing-2gg9)
 * Completed the Data Science executive master at the POLIMI  
+
+## October 2022
+* SCRUM Master course (going for scrum.org certification)
