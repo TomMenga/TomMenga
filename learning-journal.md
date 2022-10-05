@@ -29,3 +29,7 @@ Starting today (19th of April 2022), I will write down monthly everything I lear
 
 ## August 2022
 * Hints of Karma and Jasmine
+
+## September 2022
+* Marble testing (https://dev.to/this-is-learning/rxjs-marble-testing-2gg9)
+* Completed the Data Science executive master at the POLIMI  
