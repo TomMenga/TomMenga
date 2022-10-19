@@ -35,4 +35,4 @@ Starting today (19th of April 2022), I will write down monthly everything I lear
 * Completed the Data Science executive master at the POLIMI  
 
 ## October 2022
-* SCRUM Master course (going for scrum.org certification)
+* SCRUM Master course (going for scrum.org certification) - Update: Got it!
