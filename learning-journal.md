@@ -36,3 +36,6 @@ Starting today (19th of April 2022), I will write down monthly everything I lear
 
 ## October 2022
 * SCRUM Master course (going for scrum.org certification) - Update: Got it!
+
+## November 2022
+* Hints of Kafka and RabbitMQ
