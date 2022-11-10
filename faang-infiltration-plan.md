@@ -28,3 +28,5 @@ A huge thanks to [@yangshun](https://github.com/yangshun) and his [:book:incredb
 <a href="https://www.youtube.com/watch?v=tYzMYcUty6s" target="_blank">
   <img src="https://i.ytimg.com/vi/tYzMYcUty6s/hqdefault.jpg" alt="NEVER GIVE UP YOUR WAAAAYYY" width="240" height="180" border="10" />
 </a>
+
+### Step 6 - Wait for hire freeze to melt :|
