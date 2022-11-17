@@ -39,3 +39,4 @@ Starting today (19th of April 2022), I will write down monthly everything I lear
 
 ## November 2022
 * Hints of Kafka and RabbitMQ
+* Hints of [Docker](https://www.docker.com/)
