@@ -42,3 +42,4 @@ Starting today (19th of April 2022), I will write down monthly everything I lear
 * Hints of [Docker](https://www.docker.com/)
 
 ## December 2022
+* NodeJS server development & [ExpressJs](https://expressjs.com/)
