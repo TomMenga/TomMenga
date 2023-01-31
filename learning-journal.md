@@ -44,3 +44,6 @@ Starting today (19th of April 2022), I will write down monthly everything I lear
 ## December 2022
 * NodeJS server development & [ExpressJs](https://expressjs.com/)
 * [Lit](https://lit.dev/) (Web components framework)
+
+## Genuary 2022
+* [Stencil.js](https://stenciljs.com/) ( Yet another web component framework ) :|
